@@ -1,0 +1,8 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"code.c" LINE:85
+ds18b20_init DSTACK_USAGE:5 DSTACK_LEVEL:5 FILE:"C:\cvavr\lib\ds18b20.lib" LINE:61
+ds18b20_read_spd DSTACK_USAGE:6 DSTACK_LEVEL:11 FILE:"C:\cvavr\lib\ds18b20.lib" LINE:34
+ds18b20_select DSTACK_USAGE:3 DSTACK_LEVEL:14 FILE:"C:\cvavr\lib\ds18b20.lib" LINE:18
+timer1_compa_isr DSTACK_USAGE:12 DSTACK_LEVEL:26 FILE:"code.c" LINE:34
+ftoa DSTACK_USAGE:13 DSTACK_LEVEL:39 FILE:"C:\cvavr\lib\stdlib.lib" LINE:959
+floor DSTACK_USAGE:4 DSTACK_LEVEL:43 FILE:"C:\cvavr\lib\math.lib" LINE:659
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:47 FILE:"C:\cvavr\lib\math.lib" LINE:544
